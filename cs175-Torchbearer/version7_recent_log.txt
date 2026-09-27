@@ -1,0 +1,1427 @@
+===== Starting Episode 2646 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2646] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2646] Reward = 531.00
+
+===== Starting Episode 2647 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2647] Reward=538.00 | MaxZ=127 | GoalReached=True
+[Episode 2647] Reward = 538.00
+
+===== Starting Episode 2648 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2648] Reward=530.00 | MaxZ=127 | GoalReached=True
+[Episode 2648] Reward = 530.00
+
+===== Starting Episode 2649 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2649] Reward=522.00 | MaxZ=127 | GoalReached=True
+[Episode 2649] Reward = 522.00
+
+===== Starting Episode 2650 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2650] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2650] Reward = 531.00
+
+===== Starting Episode 2651 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2651] Reward=546.00 | MaxZ=127 | GoalReached=True
+[Episode 2651] Reward = 546.00
+
+===== Starting Episode 2652 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2652] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2652] Reward = 531.00
+
+===== Starting Episode 2653 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2653] Reward=409.00 | MaxZ=127 | GoalReached=True
+[Episode 2653] Reward = 409.00
+
+===== Starting Episode 2654 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2654] Reward=556.00 | MaxZ=127 | GoalReached=True
+[Episode 2654] Reward = 556.00
+
+===== Starting Episode 2655 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2655] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2655] Reward = 531.00
+
+===== Starting Episode 2656 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2656] Reward=538.00 | MaxZ=127 | GoalReached=True
+[Episode 2656] Reward = 538.00
+
+===== Starting Episode 2657 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2657] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2657] Reward = 531.00
+
+===== Starting Episode 2658 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2658] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2658] Reward = 531.00
+
+===== Starting Episode 2659 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2659] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2659] Reward = 531.00
+
+===== Starting Episode 2660 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2660] Reward=500.00 | MaxZ=127 | GoalReached=True
+[Episode 2660] Reward = 500.00
+
+===== Starting Episode 2661 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2661] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2661] Reward = 531.00
+
+===== Starting Episode 2662 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2662] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2662] Reward = 531.00
+
+===== Starting Episode 2663 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2663] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2663] Reward = 531.00
+
+===== Starting Episode 2664 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2664] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2664] Reward = 531.00
+
+===== Starting Episode 2665 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2665] Reward=417.00 | MaxZ=127 | GoalReached=True
+[Episode 2665] Reward = 417.00
+
+===== Starting Episode 2666 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2666] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2666] Reward = 531.00
+
+===== Starting Episode 2667 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2667] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2667] Reward = 531.00
+
+===== Starting Episode 2668 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2668] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2668] Reward = 531.00
+
+===== Starting Episode 2669 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2669] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2669] Reward = 531.00
+
+===== Starting Episode 2670 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2670] Reward=203.00 | MaxZ=126 | GoalReached=False
+[Episode 2670] Reward = 203.00
+
+===== Starting Episode 2671 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2671] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2671] Reward = 531.00
+
+===== Starting Episode 2672 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2672] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2672] Reward = 531.00
+
+===== Starting Episode 2673 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2673] Reward=603.00 | MaxZ=127 | GoalReached=True
+[Episode 2673] Reward = 603.00
+
+===== Starting Episode 2674 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2674] Reward=520.00 | MaxZ=127 | GoalReached=True
+[Episode 2674] Reward = 520.00
+
+===== Starting Episode 2675 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2675] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2675] Reward = 531.00
+
+===== Starting Episode 2676 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2676] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2676] Reward = 531.00
+
+===== Starting Episode 2677 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2677] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2677] Reward = 531.00
+
+===== Starting Episode 2678 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2678] Reward=-34.00 | MaxZ=127 | GoalReached=True
+[Episode 2678] Reward = -34.00
+
+===== Starting Episode 2679 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2679] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2679] Reward = 531.00
+
+===== Starting Episode 2680 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2680] Reward=370.00 | MaxZ=127 | GoalReached=True
+[Episode 2680] Reward = 370.00
+
+===== Starting Episode 2681 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2681] Reward=535.00 | MaxZ=127 | GoalReached=True
+[Episode 2681] Reward = 535.00
+
+===== Starting Episode 2682 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2682] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2682] Reward = 531.00
+
+===== Starting Episode 2683 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2683] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2683] Reward = 531.00
+
+===== Starting Episode 2684 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2684] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2684] Reward = 531.00
+
+===== Starting Episode 2685 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2685] Reward=555.00 | MaxZ=127 | GoalReached=True
+[Episode 2685] Reward = 555.00
+
+===== Starting Episode 2686 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2686] Reward=547.00 | MaxZ=127 | GoalReached=True
+[Episode 2686] Reward = 547.00
+
+===== Starting Episode 2687 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2687] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2687] Reward = 531.00
+
+===== Starting Episode 2688 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2688] Reward=545.00 | MaxZ=127 | GoalReached=True
+[Episode 2688] Reward = 545.00
+
+===== Starting Episode 2689 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2689] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2689] Reward = 531.00
+
+===== Starting Episode 2690 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2690] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2690] Reward = 531.00
+
+===== Starting Episode 2691 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2691] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2691] Reward = 531.00
+
+===== Starting Episode 2692 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2692] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2692] Reward = 531.00
+
+===== Starting Episode 2693 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2693] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2693] Reward = 531.00
+
+===== Starting Episode 2694 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2694] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2694] Reward = 531.00
+
+===== Starting Episode 2695 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2695] Reward=537.00 | MaxZ=127 | GoalReached=True
+[Episode 2695] Reward = 537.00
+
+===== Starting Episode 2696 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2696] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2696] Reward = 531.00
+
+===== Starting Episode 2697 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2697] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2697] Reward = 531.00
+
+===== Starting Episode 2698 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2698] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2698] Reward = 531.00
+
+===== Starting Episode 2699 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2699] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2699] Reward = 531.00
+
+===== Starting Episode 2700 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2700] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2700] Reward = 531.00
+
+===== Starting Episode 2701 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2701] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2701] Reward = 531.00
+
+===== Starting Episode 2702 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2702] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2702] Reward = 531.00
+
+===== Starting Episode 2703 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2703] Reward=539.00 | MaxZ=127 | GoalReached=True
+[Episode 2703] Reward = 539.00
+
+===== Starting Episode 2704 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2704] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2704] Reward = 531.00
+
+===== Starting Episode 2705 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2705] Reward=579.00 | MaxZ=127 | GoalReached=True
+[Episode 2705] Reward = 579.00
+
+===== Starting Episode 2706 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2706] Reward=571.00 | MaxZ=127 | GoalReached=True
+[Episode 2706] Reward = 571.00
+
+===== Starting Episode 2707 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2707] Reward=552.00 | MaxZ=127 | GoalReached=True
+[Episode 2707] Reward = 552.00
+
+===== Starting Episode 2708 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2708] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2708] Reward = 531.00
+
+===== Starting Episode 2709 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2709] Reward=555.00 | MaxZ=127 | GoalReached=True
+[Episode 2709] Reward = 555.00
+
+===== Starting Episode 2710 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2710] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2710] Reward = 531.00
+
+===== Starting Episode 2711 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2711] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2711] Reward = 531.00
+
+===== Starting Episode 2712 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2712] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2712] Reward = 531.00
+
+===== Starting Episode 2713 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2713] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2713] Reward = 531.00
+
+===== Starting Episode 2714 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2714] Reward=578.00 | MaxZ=127 | GoalReached=True
+[Episode 2714] Reward = 578.00
+
+===== Starting Episode 2715 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2715] Reward=547.00 | MaxZ=127 | GoalReached=True
+[Episode 2715] Reward = 547.00
+
+===== Starting Episode 2716 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2716] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2716] Reward = 531.00
+
+===== Starting Episode 2717 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2717] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2717] Reward = 531.00
+
+===== Starting Episode 2718 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2718] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2718] Reward = 531.00
+
+===== Starting Episode 2719 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2719] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2719] Reward = 531.00
+
+===== Starting Episode 2720 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2720] Reward=555.00 | MaxZ=127 | GoalReached=True
+[Episode 2720] Reward = 555.00
+
+===== Starting Episode 2721 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2721] Reward=571.00 | MaxZ=127 | GoalReached=True
+[Episode 2721] Reward = 571.00
+
+===== Starting Episode 2722 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2722] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2722] Reward = 531.00
+
+===== Starting Episode 2723 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2723] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2723] Reward = 531.00
+
+===== Starting Episode 2724 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2724] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2724] Reward = 531.00
+
+===== Starting Episode 2725 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2725] Reward=493.00 | MaxZ=127 | GoalReached=True
+[Episode 2725] Reward = 493.00
+
+===== Starting Episode 2726 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2726] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2726] Reward = 531.00
+
+===== Starting Episode 2727 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2727] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2727] Reward = 531.00
+
+===== Starting Episode 2728 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2728] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2728] Reward = 531.00
+
+===== Starting Episode 2729 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2729] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2729] Reward = 531.00
+
+===== Starting Episode 2730 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2730] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2730] Reward = 531.00
+
+===== Starting Episode 2731 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2731] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2731] Reward = 531.00
+
+===== Starting Episode 2732 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2732] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2732] Reward = 531.00
+
+===== Starting Episode 2733 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2733] Reward=550.00 | MaxZ=127 | GoalReached=True
+[Episode 2733] Reward = 550.00
+
+===== Starting Episode 2734 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2734] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2734] Reward = 531.00
+
+===== Starting Episode 2735 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2735] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2735] Reward = 531.00
+
+===== Starting Episode 2736 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2736] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2736] Reward = 531.00
+
+===== Starting Episode 2737 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2737] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2737] Reward = 531.00
+
+===== Starting Episode 2738 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2738] Reward=547.00 | MaxZ=127 | GoalReached=True
+[Episode 2738] Reward = 547.00
+
+===== Starting Episode 2739 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2739] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2739] Reward = 531.00
+
+===== Starting Episode 2740 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2740] Reward=588.00 | MaxZ=127 | GoalReached=True
+[Episode 2740] Reward = 588.00
+
+===== Starting Episode 2741 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2741] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2741] Reward = 531.00
+
+===== Starting Episode 2742 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2742] Reward=546.00 | MaxZ=127 | GoalReached=True
+[Episode 2742] Reward = 546.00
+
+===== Starting Episode 2743 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2743] Reward=555.00 | MaxZ=127 | GoalReached=True
+[Episode 2743] Reward = 555.00
+
+===== Starting Episode 2744 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2744] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2744] Reward = 531.00
+
+===== Starting Episode 2745 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2745] Reward=578.00 | MaxZ=127 | GoalReached=True
+[Episode 2745] Reward = 578.00
+
+===== Starting Episode 2746 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2746] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2746] Reward = 531.00
+
+===== Starting Episode 2747 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2747] Reward=571.00 | MaxZ=127 | GoalReached=True
+[Episode 2747] Reward = 571.00
+
+===== Starting Episode 2748 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2748] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2748] Reward = 531.00
+
+===== Starting Episode 2749 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2749] Reward=539.00 | MaxZ=127 | GoalReached=True
+[Episode 2749] Reward = 539.00
+
+===== Starting Episode 2750 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2750] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2750] Reward = 531.00
+
+===== Starting Episode 2751 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2751] Reward=546.00 | MaxZ=127 | GoalReached=True
+[Episode 2751] Reward = 546.00
+
+===== Starting Episode 2752 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2752] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2752] Reward = 531.00
+
+===== Starting Episode 2753 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2753] Reward=563.00 | MaxZ=127 | GoalReached=True
+[Episode 2753] Reward = 563.00
+
+===== Starting Episode 2754 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2754] Reward=586.00 | MaxZ=127 | GoalReached=True
+[Episode 2754] Reward = 586.00
+
+===== Starting Episode 2755 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2755] Reward=511.00 | MaxZ=127 | GoalReached=True
+[Episode 2755] Reward = 511.00
+
+===== Starting Episode 2756 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2756] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2756] Reward = 531.00
+
+===== Starting Episode 2757 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2757] Reward=563.00 | MaxZ=127 | GoalReached=True
+[Episode 2757] Reward = 563.00
+
+===== Starting Episode 2758 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2758] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2758] Reward = 531.00
+
+===== Starting Episode 2759 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2759] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2759] Reward = 531.00
+
+===== Starting Episode 2760 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2760] Reward=533.00 | MaxZ=127 | GoalReached=True
+[Episode 2760] Reward = 533.00
+
+===== Starting Episode 2761 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2761] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2761] Reward = 531.00
+
+===== Starting Episode 2762 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2762] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2762] Reward = 531.00
+
+===== Starting Episode 2763 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2763] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2763] Reward = 531.00
+
+===== Starting Episode 2764 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2764] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2764] Reward = 531.00
+
+===== Starting Episode 2765 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2765] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2765] Reward = 531.00
+
+===== Starting Episode 2766 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2766] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2766] Reward = 531.00
+
+===== Starting Episode 2767 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2767] Reward=561.00 | MaxZ=127 | GoalReached=True
+[Episode 2767] Reward = 561.00
+
+===== Starting Episode 2768 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2768] Reward=556.00 | MaxZ=127 | GoalReached=True
+[Episode 2768] Reward = 556.00
+
+===== Starting Episode 2769 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2769] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2769] Reward = 531.00
+
+===== Starting Episode 2770 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2770] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2770] Reward = 531.00
+
+===== Starting Episode 2771 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2771] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2771] Reward = 531.00
+
+===== Starting Episode 2772 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2772] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2772] Reward = 531.00
+
+===== Starting Episode 2773 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2773] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2773] Reward = 531.00
+
+===== Starting Episode 2774 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2774] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2774] Reward = 531.00
+
+===== Starting Episode 2775 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2775] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2775] Reward = 531.00
+
+===== Starting Episode 2776 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2776] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2776] Reward = 531.00
+
+===== Starting Episode 2777 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2777] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2777] Reward = 531.00
+
+===== Starting Episode 2778 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2778] Reward=563.00 | MaxZ=127 | GoalReached=True
+[Episode 2778] Reward = 563.00
+
+===== Starting Episode 2779 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2779] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2779] Reward = 531.00
+
+===== Starting Episode 2780 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2780] Reward=523.00 | MaxZ=127 | GoalReached=True
+[Episode 2780] Reward = 523.00
+
+===== Starting Episode 2781 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2781] Reward=571.00 | MaxZ=127 | GoalReached=True
+[Episode 2781] Reward = 571.00
+
+===== Starting Episode 2782 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2782] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2782] Reward = 531.00
+
+===== Starting Episode 2783 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2783] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2783] Reward = 531.00
+
+===== Starting Episode 2784 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2784] Reward=530.00 | MaxZ=127 | GoalReached=True
+[Episode 2784] Reward = 530.00
+
+===== Starting Episode 2785 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2785] Reward=557.00 | MaxZ=127 | GoalReached=True
+[Episode 2785] Reward = 557.00
+
+===== Starting Episode 2786 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2786] Reward=563.00 | MaxZ=127 | GoalReached=True
+[Episode 2786] Reward = 563.00
+
+===== Starting Episode 2787 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2787] Reward=550.00 | MaxZ=127 | GoalReached=True
+[Episode 2787] Reward = 550.00
+
+===== Starting Episode 2788 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2788] Reward=547.00 | MaxZ=127 | GoalReached=True
+[Episode 2788] Reward = 547.00
+
+===== Starting Episode 2789 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2789] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2789] Reward = 531.00
+
+===== Starting Episode 2790 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2790] Reward=571.00 | MaxZ=127 | GoalReached=True
+[Episode 2790] Reward = 571.00
+
+===== Starting Episode 2791 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2791] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2791] Reward = 531.00
+
+===== Starting Episode 2792 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2792] Reward=571.00 | MaxZ=127 | GoalReached=True
+[Episode 2792] Reward = 571.00
+
+===== Starting Episode 2793 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2793] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2793] Reward = 531.00
+
+===== Starting Episode 2794 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2794] Reward=547.00 | MaxZ=127 | GoalReached=True
+[Episode 2794] Reward = 547.00
+
+===== Starting Episode 2795 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2795] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2795] Reward = 531.00
+
+===== Starting Episode 2796 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2796] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2796] Reward = 531.00
+
+===== Starting Episode 2797 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2797] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2797] Reward = 531.00
+
+===== Starting Episode 2798 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2798] Reward=546.00 | MaxZ=127 | GoalReached=True
+[Episode 2798] Reward = 546.00
+
+===== Starting Episode 2799 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2799] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2799] Reward = 531.00
+
+===== Starting Episode 2800 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2800] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2800] Reward = 531.00
+
+===== Starting Episode 2801 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2801] Reward=555.00 | MaxZ=127 | GoalReached=True
+[Episode 2801] Reward = 555.00
+
+===== Starting Episode 2802 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2802] Reward=546.00 | MaxZ=127 | GoalReached=True
+[Episode 2802] Reward = 546.00
+
+===== Starting Episode 2803 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2803] Reward=535.00 | MaxZ=127 | GoalReached=True
+[Episode 2803] Reward = 535.00
+
+===== Starting Episode 2804 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2804] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2804] Reward = 531.00
+
+===== Starting Episode 2805 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2805] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2805] Reward = 531.00
+
+===== Starting Episode 2806 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2806] Reward=541.00 | MaxZ=127 | GoalReached=True
+[Episode 2806] Reward = 541.00
+
+===== Starting Episode 2807 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2807] Reward=363.00 | MaxZ=127 | GoalReached=True
+[Episode 2807] Reward = 363.00
+
+===== Starting Episode 2808 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2808] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2808] Reward = 531.00
+
+===== Starting Episode 2809 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2809] Reward=559.00 | MaxZ=127 | GoalReached=True
+[Episode 2809] Reward = 559.00
+
+===== Starting Episode 2810 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2810] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2810] Reward = 531.00
+
+===== Starting Episode 2811 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2811] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2811] Reward = 531.00
+
+===== Starting Episode 2812 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2812] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2812] Reward = 531.00
+
+===== Starting Episode 2813 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2813] Reward=532.00 | MaxZ=127 | GoalReached=True
+[Episode 2813] Reward = 532.00
+
+===== Starting Episode 2814 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2814] Reward=547.00 | MaxZ=127 | GoalReached=True
+[Episode 2814] Reward = 547.00
+
+===== Starting Episode 2815 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2815] Reward=500.00 | MaxZ=127 | GoalReached=True
+[Episode 2815] Reward = 500.00
+
+===== Starting Episode 2816 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2816] Reward=547.00 | MaxZ=127 | GoalReached=True
+[Episode 2816] Reward = 547.00
+
+===== Starting Episode 2817 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2817] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2817] Reward = 531.00
+
+===== Starting Episode 2818 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2818] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2818] Reward = 531.00
+
+===== Starting Episode 2819 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2819] Reward=524.00 | MaxZ=127 | GoalReached=True
+[Episode 2819] Reward = 524.00
+
+===== Starting Episode 2820 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2820] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2820] Reward = 531.00
+
+===== Starting Episode 2821 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2821] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2821] Reward = 531.00
+
+===== Starting Episode 2822 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2822] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2822] Reward = 531.00
+
+===== Starting Episode 2823 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2823] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2823] Reward = 531.00
+
+===== Starting Episode 2824 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2824] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2824] Reward = 531.00
+
+===== Starting Episode 2825 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2825] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2825] Reward = 531.00
+
+===== Starting Episode 2826 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2826] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2826] Reward = 531.00
+
+===== Starting Episode 2827 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2827] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2827] Reward = 531.00
+
+===== Starting Episode 2828 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2828] Reward=539.00 | MaxZ=127 | GoalReached=True
+[Episode 2828] Reward = 539.00
+
+===== Starting Episode 2829 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2829] Reward=506.00 | MaxZ=127 | GoalReached=True
+[Episode 2829] Reward = 506.00
+
+===== Starting Episode 2830 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2830] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2830] Reward = 531.00
+
+===== Starting Episode 2831 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2831] Reward=550.00 | MaxZ=127 | GoalReached=True
+[Episode 2831] Reward = 550.00
+
+===== Starting Episode 2832 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2832] Reward=554.00 | MaxZ=127 | GoalReached=True
+[Episode 2832] Reward = 554.00
+
+===== Starting Episode 2833 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2833] Reward=506.00 | MaxZ=127 | GoalReached=True
+[Episode 2833] Reward = 506.00
+
+===== Starting Episode 2834 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2834] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2834] Reward = 531.00
+
+===== Starting Episode 2835 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2835] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2835] Reward = 531.00
+
+===== Starting Episode 2836 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2836] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2836] Reward = 531.00
+
+===== Starting Episode 2837 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2837] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2837] Reward = 531.00
+
+===== Starting Episode 2838 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2838] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2838] Reward = 531.00
+
+===== Starting Episode 2839 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2839] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2839] Reward = 531.00
+
+===== Starting Episode 2840 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2840] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2840] Reward = 531.00
+
+===== Starting Episode 2841 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2841] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2841] Reward = 531.00
+
+===== Starting Episode 2842 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2842] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2842] Reward = 531.00
+
+===== Starting Episode 2843 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2843] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2843] Reward = 531.00
+
+===== Starting Episode 2844 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2844] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2844] Reward = 531.00
+
+===== Starting Episode 2845 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2845] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2845] Reward = 531.00
+
+===== Starting Episode 2846 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2846] Reward=475.00 | MaxZ=127 | GoalReached=True
+[Episode 2846] Reward = 475.00
+
+===== Starting Episode 2847 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2847] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2847] Reward = 531.00
+
+===== Starting Episode 2848 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2848] Reward=551.00 | MaxZ=127 | GoalReached=True
+[Episode 2848] Reward = 551.00
+
+===== Starting Episode 2849 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2849] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2849] Reward = 531.00
+
+===== Starting Episode 2850 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2850] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2850] Reward = 531.00
+
+===== Starting Episode 2851 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2851] Reward=506.00 | MaxZ=127 | GoalReached=True
+[Episode 2851] Reward = 506.00
+
+===== Starting Episode 2852 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2852] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2852] Reward = 531.00
+
+===== Starting Episode 2853 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2853] Reward=510.00 | MaxZ=127 | GoalReached=True
+[Episode 2853] Reward = 510.00
+
+===== Starting Episode 2854 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2854] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2854] Reward = 531.00
+
+===== Starting Episode 2855 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2855] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2855] Reward = 531.00
+
+===== Starting Episode 2856 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2856] Reward=517.00 | MaxZ=127 | GoalReached=True
+[Episode 2856] Reward = 517.00
+
+===== Starting Episode 2857 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2857] Reward=203.00 | MaxZ=126 | GoalReached=False
+[Episode 2857] Reward = 203.00
+
+===== Starting Episode 2858 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2858] Reward=522.00 | MaxZ=127 | GoalReached=True
+[Episode 2858] Reward = 522.00
+
+===== Starting Episode 2859 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2859] Reward=541.00 | MaxZ=127 | GoalReached=True
+[Episode 2859] Reward = 541.00
+
+===== Starting Episode 2860 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2860] Reward=522.00 | MaxZ=127 | GoalReached=True
+[Episode 2860] Reward = 522.00
+
+===== Starting Episode 2861 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2861] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2861] Reward = 531.00
+
+===== Starting Episode 2862 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2862] Reward=555.00 | MaxZ=127 | GoalReached=True
+[Episode 2862] Reward = 555.00
+
+===== Starting Episode 2863 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2863] Reward=479.00 | MaxZ=127 | GoalReached=True
+[Episode 2863] Reward = 479.00
+
+===== Starting Episode 2864 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2864] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2864] Reward = 531.00
+
+===== Starting Episode 2865 =====
+Waiting for mission to start.....
+Mission running!
+[Episode 2865] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2865] Reward = 531.00
+
+===== Starting Episode 2866 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2866] Reward=524.00 | MaxZ=127 | GoalReached=True
+[Episode 2866] Reward = 524.00
+
+===== Starting Episode 2867 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2867] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2867] Reward = 531.00
+
+===== Starting Episode 2868 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2868] Reward=505.00 | MaxZ=127 | GoalReached=True
+[Episode 2868] Reward = 505.00
+
+===== Starting Episode 2869 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2869] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2869] Reward = 531.00
+
+===== Starting Episode 2870 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2870] Reward=556.00 | MaxZ=127 | GoalReached=True
+[Episode 2870] Reward = 556.00
+
+===== Starting Episode 2871 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2871] Reward=219.00 | MaxZ=126 | GoalReached=False
+[Episode 2871] Reward = 219.00
+
+===== Starting Episode 2872 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2872] Reward=560.00 | MaxZ=127 | GoalReached=True
+[Episode 2872] Reward = 560.00
+
+===== Starting Episode 2873 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2873] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2873] Reward = 531.00
+
+===== Starting Episode 2874 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2874] Reward=539.00 | MaxZ=127 | GoalReached=True
+[Episode 2874] Reward = 539.00
+
+===== Starting Episode 2875 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2875] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2875] Reward = 531.00
+
+===== Starting Episode 2876 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2876] Reward=547.00 | MaxZ=127 | GoalReached=True
+[Episode 2876] Reward = 547.00
+
+===== Starting Episode 2877 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2877] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2877] Reward = 531.00
+
+===== Starting Episode 2878 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2878] Reward=514.00 | MaxZ=127 | GoalReached=True
+[Episode 2878] Reward = 514.00
+
+===== Starting Episode 2879 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2879] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2879] Reward = 531.00
+
+===== Starting Episode 2880 =====
+Waiting for mission to start..
+Mission running!
+[Episode 2880] Reward=536.00 | MaxZ=127 | GoalReached=True
+[Episode 2880] Reward = 536.00
+
+===== Starting Episode 2881 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2881] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2881] Reward = 531.00
+
+===== Starting Episode 2882 =====
+Waiting for mission to start...
+Mission running!
+[Episode 2882] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2882] Reward = 531.00
+
+===== Starting Episode 2883 =====
+Waiting for mission to start....
+Mission running!
+[Episode 2883] Reward=531.00 | MaxZ=127 | GoalReached=True
+[Episode 2883] Reward = 531.00
