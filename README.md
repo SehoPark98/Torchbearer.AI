@@ -33,6 +33,7 @@ The reward function was designed to prioritize efficient navigation by rewarding
 
 ```text
 reward = 150 * goal - 3 * visited - 10 * hazard - steps
+```
 
 ## Demo
 
